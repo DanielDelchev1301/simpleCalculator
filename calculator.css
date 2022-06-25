@@ -1,0 +1,27 @@
+table {
+    border: solid grey 1px;
+    border-radius: 15px;
+    margin-inline: 750px;
+    margin-top: 300px;
+}
+
+td {
+    padding: 10px;
+}
+
+button:hover {
+    background-color: grey;
+    color: white;
+    border: solid black 1px;
+    border-radius: 2px;
+    padding-block: 2px;
+}
+
+input:hover {
+    background-color: grey;
+    color: white;
+    border: solid black 1px;
+    border-radius: 5px;
+    
+
+}
